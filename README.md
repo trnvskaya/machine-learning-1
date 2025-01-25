@@ -3,6 +3,7 @@
 
 
 **This was developed as part of the Machine Learning 1 course at the Faculty of Information Technology, Czech Technical University in Prague (FIT ČVUT).**
+
 This repository contains two projects:
 
 ## 1. Titanic Survival Prediction
